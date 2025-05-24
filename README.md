@@ -3,7 +3,7 @@
 A design-system-ready component library featuring reusable, typed UI components built in React + TypeScript.
 
 ## Live Demo
-[https://component-library.vercel.app](https://component-library.vercel.app) *(placeholder)*
+[https://component-library.vercel.app](https://component-library-orcin-beta.vercel.app/)
 
 ## Features
 - Button, Modal, and Card components
